@@ -1,0 +1,26 @@
+ .t {
+ position : absolute;
+ left : calc(50% - 450px);
+ top : calc(50% - 250px);
+}
+h3{
+  position : relative;
+  top : 550px;
+  left : 600px;
+}
+img{
+  position :relative;
+  top : 520px;
+  left : 600px;
+}
+#t{
+  position : absolute;
+  left : 900px;
+  top : 20px;
+
+}
+#s{
+  position : absolute;
+  left : 940px;
+  top : 12px;
+}
